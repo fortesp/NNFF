@@ -1,7 +1,7 @@
 # NNFF - Neural Network Feed Foward
 
 Reads images with digits. Converts each pixel into RGB value to be fed into the Neural Network. 
-The cells are trainned and fired to recoginze sucessfully a number with a specific target. 
+The cells are trained and fired to recognize successfully a number with a specific target. 
 
 Example of an output:
 
